@@ -1,5 +1,5 @@
 {
-    "root":"/data/yfzhang/MOT/JDE",
+    "root":"/home/ec2-user/SageMaker/tier",
     "train":
     {
         "mot17":"./data/mot17.train",
